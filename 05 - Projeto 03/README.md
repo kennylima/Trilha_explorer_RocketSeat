@@ -1,4 +1,4 @@
-# Projeto 02 - Treine me | RocketSeat 
+# Projeto 03 - Crie seu evento | RocketSeat 
 
 ![preview](./.github/preview.png)
 
