@@ -16,7 +16,7 @@ Desafios para introdução ao Javascript
 
 [🔗 Desafio 7](https://github.com/kennylima/Trilha_explorer_RocketSeat/tree/main/07%20-%20Algoritmos%20e%20logica%20de%20programa%C3%A7%C3%A3o%20com%20Javascript/Desafio%207) | Programa possui um menu, onde o usuário pode cadastrar itens em uma lista, visualizar a lista e sair do programa
 
-[🔗 Desafio 8](https://github.com/kennylima/Trilha_explorer_RocketSeat/tree/main/07%20-%20Algoritmos%20e%20logica%20de%20programa%C3%A7%C3%A3o%20com%20Javascript/Desafio%208) | Manipulando objetos e arrays
+[🔗 Desafio 8](https://github.com/kennylima/Trilha_explorer_RocketSeat/tree/main/07%20-%20Algoritmos%20e%20logica%20de%20programa%C3%A7%C3%A3o%20com%20Javascript/Desafio%208) | Calculo de IMC com os dados dos pacientes inseridos em um objeto
 
 ## 🛠 Tecnologias 
 - HTML
