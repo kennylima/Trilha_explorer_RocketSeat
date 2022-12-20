@@ -14,6 +14,8 @@ Desafios para introdução ao Javascript
 
 [🔗 Desafio 6](https://github.com/kennylima/Trilha_explorer_RocketSeat/tree/main/07%20-%20Algoritmos%20e%20logica%20de%20programa%C3%A7%C3%A3o%20com%20Javascript/Desafio%206) | Criado um jogo de adivinhação onde o usuário terá que digitar um número até acertar o número pensado pela máquina
 
+[🔗 Desafio 7](https://github.com/kennylima/Trilha_explorer_RocketSeat/tree/main/07%20-%20Algoritmos%20e%20logica%20de%20programa%C3%A7%C3%A3o%20com%20Javascript/Desafio%207) | Programa possui um menu, onde o usuário pode cadastrar itens em uma lista, visualizar a lista e sair do programa
+
 ## 🛠 Tecnologias 
 - HTML
 - JavaScript
