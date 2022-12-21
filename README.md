@@ -18,6 +18,8 @@ Curso explorer FullStack da RocketSeat, utilizando NodeJs no Back-end.
 
 [🔗 Módulo 7 - Algoritmos e lógica de programação](https://github.com/kennylima/Trilha_explorer_RocketSeat/tree/main/02%20-%20Algoritmos%20e%20logica%20de%20programa%C3%A7%C3%A3o%20com%20Javascript)
 
+[🔗 Módulo 8 - Avançando no Javascript](https://github.com/kennylima/Trilha_explorer_RocketSeat/tree/main/08%20-%20Avan%C3%A7ando%20no%20Javascript)
+
 ## 🛠 Tecnologias 
 - HTML
 - CSS
