@@ -1,6 +1,6 @@
 # Avançando no Javascript | Curso Explorer 2022 - RocketSeat 
 
-Projetos de Javascript com HTML e CSS
+Aplicações em HTML e CSS com Javascript
 
 ---
 
@@ -10,7 +10,11 @@ Projetos de Javascript com HTML e CSS
 
 ---
 
-[🔗 Desafio 2]() | Descrição
+[🔗 Projeto IMC](https://github.com/kennylima/Trilha_explorer_RocketSeat/tree/main/08%20-%20Avan%C3%A7ando%20no%20Javascript/02%20-%20Projeto%20IMC) | Página executada no navegador, onde o usuário insere o peso e sua altura e o código retorna o IMC.
+
+![preview](./.github/desafioUm.png)
+
+---
 
 [🔗 Desafio 3]() | Descrição
 
