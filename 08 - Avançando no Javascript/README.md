@@ -12,7 +12,7 @@ Aplicações em HTML e CSS com Javascript
 
 [🔗 Projeto IMC](https://github.com/kennylima/Trilha_explorer_RocketSeat/tree/main/08%20-%20Avan%C3%A7ando%20no%20Javascript/02%20-%20Projeto%20IMC) | Página executada no navegador, onde o usuário insere o peso e sua altura e o código retorna o IMC. Foi utilizado modularização no Javascript.
 
-![preview](./.github/desafioDois.png)
+![preview](./.github/desafioDoiss.png)
  
 ---
 
